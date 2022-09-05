@@ -1,0 +1,1 @@
+INSERT INTO Temporary VALUES ("A101A")
